@@ -12,3 +12,7 @@ The earliest members of Ursidae belong to the extinct subfamily Amphicynodontina
 ``` javascript
 var myVar = "Its a brown Bear!";
 ```
+
+- [x] Bears are omnivores.
+- [ ] Bear are social creatures.
+- [x] Bears have high IQ.
